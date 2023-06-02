@@ -1,2 +1,2 @@
 # macsignedApp
-This is the simple app signed by electron JS.
+This is the simple app which demostrate the Mac signing process for Electron based application.
